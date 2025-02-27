@@ -1,17 +1,17 @@
-System                             FRET efficiency
-DNAo                                0.2328
-DNAo + F5A                      0.261
-DNAo + HNP                     0.3973
-DNAo + Mg2+                   0.4181
-DNAo + F5A + Mg2+         0.5379
+System                   FRET efficiency
+DNAo                     0.2328
+DNAo + F5A               0.261
+DNAo + HNP               0.3973
+DNAo + Mg2+              0.4181
+DNAo + F5A + Mg2+        0.5379
 DNAo + HNP + Mg2+        0.989
 
-DNAr                                 0.0778 
-DNAr + F5A                       0.1107
-DNAr + HNP                      0.2574
-DNAr + Mg2+                    0.1222
-DNAr + F5A + Mg2+          0.2238
-DNAr + HNP + Mg2+         0.2162 
+DNAr                     0.0778 
+DNAr + F5A               0.1107
+DNAr + HNP               0.2574
+DNAr + Mg2+              0.1222
+DNAr + F5A + Mg2+        0.2238
+DNAr + HNP + Mg2+        0.2162 
 
 
 
